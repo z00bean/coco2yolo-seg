@@ -24,9 +24,10 @@ The coordinates are separated by spaces.
 
 To use the COCO to YOLO segmentation converter, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/coco-to-yolo-segmentation.git`
-2. Prepare your COCO dataset: Update the COCO annotation JSON file and the corresponding output folder name in the Python file.
-3. Run the conversion script: `python convert_coco_to_yolo_segmentation.py --json_file path/to/coco_annotations.json --output_folder path/to/output_folder`
+1. Clone the repository:
+   `git clone https://github.com/z00bean/coco2yolo-seg.git`
+3. Prepare your COCO dataset: Modify the COCO annotation JSON file path and specify the desired output folder name in the Python file.
+4. Run the conversion script: `python COCO2YOLO-seg.py`
 
 Make sure to replace `path/to/coco_annotations.json` with the actual path to your COCO annotation JSON file and `path/to/output_folder` with the desired output folder path.
 
