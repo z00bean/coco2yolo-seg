@@ -1,4 +1,3 @@
-# coco2yolo-seg
 Convert COCO segmentation annotation to YOLO segmentation format effortlessly with this Python package. The resulting annotations are stored in individual text files, following the YOLO segmentation format convention. 
 
 # COCO to YOLO Segmentation Converter
