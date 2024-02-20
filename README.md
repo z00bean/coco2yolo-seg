@@ -45,3 +45,6 @@ MIT License.
 
 https://docs.ultralytics.com/datasets/segment
 
+### Medium article
+[zubinbhuyan.medium.com - Effortless COCO annotation to YOLO segmentation](https://zubinbhuyan.medium.com/effortless-coco-annotation-to-yolo-segmentation-14b4c7f893b9)
+
